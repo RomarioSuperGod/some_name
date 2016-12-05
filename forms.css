@@ -1,0 +1,35 @@
+ *{
+	
+	box-sizing: border-box;
+}
+.header{
+
+	.container-header{
+		margin-bottom: 20px;
+	}
+
+	.btn_text{
+		font-family: arial, sans-serif;
+		font-size: bold;
+	}
+}
+
+.wrapper{
+
+table{
+	margin-top: 20px;
+}
+
+button{
+font-family: Verdana , sans-serif;
+}
+
+.buttons_content{
+	display: inline-block;
+}
+
+}
+
+.footer{
+
+}
